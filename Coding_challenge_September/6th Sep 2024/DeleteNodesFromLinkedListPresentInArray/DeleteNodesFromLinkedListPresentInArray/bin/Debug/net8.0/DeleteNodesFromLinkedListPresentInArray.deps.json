@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeleteNodesFromLinkedListPresentInArray/1.0.0": {
+        "runtime": {
+          "DeleteNodesFromLinkedListPresentInArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeleteNodesFromLinkedListPresentInArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
