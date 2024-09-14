@@ -50,7 +50,7 @@ nums = [1,2,3,3,2,2]
 -  The maximum element in the array is 3.
 -  The longest subarray containing 3 is [3, 3], which has a length of 2.
 
-**Output 1**
+**Output 1:**
 ```2```
 
 **Input 2**
@@ -60,7 +60,7 @@ nums = [1,2,3,4]
 -  The maximum element in the array is 4.
 -  The longest subarray containing 4 is [4], which has a length of 1.
 
-**Output 2**
+**Output 2:**
 ```1```
 
 ## Time Complexity
