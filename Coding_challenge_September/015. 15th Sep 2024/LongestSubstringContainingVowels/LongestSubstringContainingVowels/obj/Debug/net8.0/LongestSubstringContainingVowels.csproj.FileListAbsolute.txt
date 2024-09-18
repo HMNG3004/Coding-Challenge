@@ -1,0 +1,15 @@
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\bin\Debug\net8.0\LongestSubstringContainingVowels.exe
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\bin\Debug\net8.0\LongestSubstringContainingVowels.deps.json
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\bin\Debug\net8.0\LongestSubstringContainingVowels.runtimeconfig.json
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\bin\Debug\net8.0\LongestSubstringContainingVowels.dll
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\bin\Debug\net8.0\LongestSubstringContainingVowels.pdb
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\obj\Debug\net8.0\LongestSubstringContainingVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\obj\Debug\net8.0\LongestSubstringContainingVowels.AssemblyInfoInputs.cache
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\obj\Debug\net8.0\LongestSubstringContainingVowels.AssemblyInfo.cs
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\obj\Debug\net8.0\LongestSubstringContainingVowels.csproj.CoreCompileInputs.cache
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\obj\Debug\net8.0\LongestSubstringContainingVowels.sourcelink.json
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\obj\Debug\net8.0\LongestSubstringContainingVowels.dll
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\obj\Debug\net8.0\refint\LongestSubstringContainingVowels.dll
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\obj\Debug\net8.0\LongestSubstringContainingVowels.pdb
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\obj\Debug\net8.0\LongestSubstringContainingVowels.genruntimeconfig.cache
+C:\Code\Coding challenge\Coding_challenge_September\015. 15th Sep 2024\LongestSubstringContainingVowels\LongestSubstringContainingVowels\obj\Debug\net8.0\ref\LongestSubstringContainingVowels.dll
