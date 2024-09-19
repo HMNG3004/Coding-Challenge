@@ -1,0 +1,15 @@
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\bin\Debug\net8.0\DifferentWaysToAddParentheses.exe
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\bin\Debug\net8.0\DifferentWaysToAddParentheses.deps.json
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\bin\Debug\net8.0\DifferentWaysToAddParentheses.runtimeconfig.json
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\bin\Debug\net8.0\DifferentWaysToAddParentheses.dll
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\bin\Debug\net8.0\DifferentWaysToAddParentheses.pdb
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\obj\Debug\net8.0\DifferentWaysToAddParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\obj\Debug\net8.0\DifferentWaysToAddParentheses.AssemblyInfoInputs.cache
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\obj\Debug\net8.0\DifferentWaysToAddParentheses.AssemblyInfo.cs
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\obj\Debug\net8.0\DifferentWaysToAddParentheses.csproj.CoreCompileInputs.cache
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\obj\Debug\net8.0\DifferentWaysToAddParentheses.sourcelink.json
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\obj\Debug\net8.0\DifferentWaysToAddParentheses.dll
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\obj\Debug\net8.0\refint\DifferentWaysToAddParentheses.dll
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\obj\Debug\net8.0\DifferentWaysToAddParentheses.pdb
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\obj\Debug\net8.0\DifferentWaysToAddParentheses.genruntimeconfig.cache
+C:\Code\Coding challenge\Coding_challenge_September\019. 19th Sep 2024\DifferentWaysToAddParentheses\DifferentWaysToAddParentheses\obj\Debug\net8.0\ref\DifferentWaysToAddParentheses.dll
