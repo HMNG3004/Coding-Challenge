@@ -1,0 +1,15 @@
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\bin\Debug\net8.0\ExtraCharactersInAString.exe
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\bin\Debug\net8.0\ExtraCharactersInAString.deps.json
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\bin\Debug\net8.0\ExtraCharactersInAString.runtimeconfig.json
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\bin\Debug\net8.0\ExtraCharactersInAString.dll
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\bin\Debug\net8.0\ExtraCharactersInAString.pdb
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\obj\Debug\net8.0\ExtraCharactersInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\obj\Debug\net8.0\ExtraCharactersInAString.AssemblyInfoInputs.cache
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\obj\Debug\net8.0\ExtraCharactersInAString.AssemblyInfo.cs
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\obj\Debug\net8.0\ExtraCharactersInAString.csproj.CoreCompileInputs.cache
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\obj\Debug\net8.0\ExtraCharactersInAString.sourcelink.json
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\obj\Debug\net8.0\ExtraCharactersInAString.dll
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\obj\Debug\net8.0\refint\ExtraCharactersInAString.dll
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\obj\Debug\net8.0\ExtraCharactersInAString.pdb
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\obj\Debug\net8.0\ExtraCharactersInAString.genruntimeconfig.cache
+C:\Code\Coding challenge\Coding_challenge_September\023. 23rd Sep 2024\ExtraCharactersInAString\ExtraCharactersInAString\obj\Debug\net8.0\ref\ExtraCharactersInAString.dll
