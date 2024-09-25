@@ -1,0 +1,15 @@
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\bin\Debug\net8.0\SumOfPrefixScoresOfStrings.exe
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\bin\Debug\net8.0\SumOfPrefixScoresOfStrings.deps.json
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\bin\Debug\net8.0\SumOfPrefixScoresOfStrings.runtimeconfig.json
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\bin\Debug\net8.0\SumOfPrefixScoresOfStrings.dll
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\bin\Debug\net8.0\SumOfPrefixScoresOfStrings.pdb
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\obj\Debug\net8.0\SumOfPrefixScoresOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\obj\Debug\net8.0\SumOfPrefixScoresOfStrings.AssemblyInfoInputs.cache
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\obj\Debug\net8.0\SumOfPrefixScoresOfStrings.AssemblyInfo.cs
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\obj\Debug\net8.0\SumOfPrefixScoresOfStrings.csproj.CoreCompileInputs.cache
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\obj\Debug\net8.0\SumOfPrefixScoresOfStrings.sourcelink.json
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\obj\Debug\net8.0\SumOfPrefixScoresOfStrings.dll
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\obj\Debug\net8.0\refint\SumOfPrefixScoresOfStrings.dll
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\obj\Debug\net8.0\SumOfPrefixScoresOfStrings.pdb
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\obj\Debug\net8.0\SumOfPrefixScoresOfStrings.genruntimeconfig.cache
+C:\Code\Coding challenge\Coding_challenge_September\025. 25th Sep 2024\SumOfPrefixScoresOfStrings\SumOfPrefixScoresOfStrings\obj\Debug\net8.0\ref\SumOfPrefixScoresOfStrings.dll
