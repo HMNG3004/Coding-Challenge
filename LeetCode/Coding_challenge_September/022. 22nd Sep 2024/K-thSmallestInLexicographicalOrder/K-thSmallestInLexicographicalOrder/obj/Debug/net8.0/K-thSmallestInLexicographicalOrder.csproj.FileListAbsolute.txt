@@ -1,0 +1,15 @@
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\bin\Debug\net8.0\K-thSmallestInLexicographicalOrder.exe
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\bin\Debug\net8.0\K-thSmallestInLexicographicalOrder.deps.json
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\bin\Debug\net8.0\K-thSmallestInLexicographicalOrder.runtimeconfig.json
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\bin\Debug\net8.0\K-thSmallestInLexicographicalOrder.dll
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\bin\Debug\net8.0\K-thSmallestInLexicographicalOrder.pdb
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\obj\Debug\net8.0\K-thSmallestInLexicographicalOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\obj\Debug\net8.0\K-thSmallestInLexicographicalOrder.AssemblyInfoInputs.cache
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\obj\Debug\net8.0\K-thSmallestInLexicographicalOrder.AssemblyInfo.cs
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\obj\Debug\net8.0\K-thSmallestInLexicographicalOrder.csproj.CoreCompileInputs.cache
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\obj\Debug\net8.0\K-thSmallestInLexicographicalOrder.sourcelink.json
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\obj\Debug\net8.0\K-thSmallestInLexicographicalOrder.dll
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\obj\Debug\net8.0\refint\K-thSmallestInLexicographicalOrder.dll
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\obj\Debug\net8.0\K-thSmallestInLexicographicalOrder.pdb
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\obj\Debug\net8.0\K-thSmallestInLexicographicalOrder.genruntimeconfig.cache
+C:\Code\Coding challenge\Coding_challenge_September\022. 22nd Sep 2024\K-thSmallestInLexicographicalOrder\K-thSmallestInLexicographicalOrder\obj\Debug\net8.0\ref\K-thSmallestInLexicographicalOrder.dll
