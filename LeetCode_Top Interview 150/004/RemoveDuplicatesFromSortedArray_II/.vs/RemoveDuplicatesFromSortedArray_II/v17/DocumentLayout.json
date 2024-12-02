@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Daily_coding_problem\\Day no.6 (Aug 21st 2024)\\RemoveDuplicatesFromSortedArray_II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5B732-4C21-4CE4-9E45-4B821DEB6181}|RemoveDuplicatesFromSortedArray_II\\RemoveDuplicatesFromSortedArray_II.csproj|c:\\code\\daily_coding_problem\\day no.6 (aug 21st 2024)\\removeduplicatesfromsortedarray_ii\\removeduplicatesfromsortedarray_ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D5B732-4C21-4CE4-9E45-4B821DEB6181}|RemoveDuplicatesFromSortedArray_II\\RemoveDuplicatesFromSortedArray_II.csproj|solutionrelative:removeduplicatesfromsortedarray_ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 519,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Daily_coding_problem\\Day no.6 (Aug 21st 2024)\\RemoveDuplicatesFromSortedArray_II\\RemoveDuplicatesFromSortedArray_II\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveDuplicatesFromSortedArray_II\\Program.cs",
+              "ToolTip": "C:\\Code\\Daily_coding_problem\\Day no.6 (Aug 21st 2024)\\RemoveDuplicatesFromSortedArray_II\\RemoveDuplicatesFromSortedArray_II\\Program.cs",
+              "RelativeToolTip": "RemoveDuplicatesFromSortedArray_II\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:24:26.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

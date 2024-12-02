@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Daily_coding_problem\\Day no.011\\JumpGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35D4A35B-3541-4E1D-A9BC-5A3378FA7C89}|JumpGame\\JumpGame.csproj|c:\\code\\daily_coding_problem\\day no.011\\jumpgame\\jumpgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D4A35B-3541-4E1D-A9BC-5A3378FA7C89}|JumpGame\\JumpGame.csproj|solutionrelative:jumpgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 519,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Daily_coding_problem\\Day no.011\\JumpGame\\JumpGame\\Program.cs",
+              "RelativeDocumentMoniker": "JumpGame\\Program.cs",
+              "ToolTip": "C:\\Code\\Daily_coding_problem\\Day no.011\\JumpGame\\JumpGame\\Program.cs",
+              "RelativeToolTip": "JumpGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:49:28.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

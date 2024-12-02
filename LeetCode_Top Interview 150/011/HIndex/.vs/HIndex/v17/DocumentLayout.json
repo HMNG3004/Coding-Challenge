@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Daily_coding_problem\\Day no.013\\HIndex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9274B53D-4761-4A23-9522-544975AB49A2}|HIndex\\HIndex.csproj|c:\\code\\daily_coding_problem\\day no.013\\hindex\\hindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9274B53D-4761-4A23-9522-544975AB49A2}|HIndex\\HIndex.csproj|solutionrelative:hindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 519,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Daily_coding_problem\\Day no.013\\HIndex\\HIndex\\Program.cs",
+              "RelativeDocumentMoniker": "HIndex\\Program.cs",
+              "ToolTip": "C:\\Code\\Daily_coding_problem\\Day no.013\\HIndex\\HIndex\\Program.cs",
+              "RelativeToolTip": "HIndex\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:31:45.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

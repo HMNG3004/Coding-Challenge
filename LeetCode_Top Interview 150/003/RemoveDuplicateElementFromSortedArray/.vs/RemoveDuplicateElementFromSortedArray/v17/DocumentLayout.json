@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Daily_coding_problem\\Day no.5 (Aug 20th 2024)\\RemoveDuplicateElementFromSortedArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB43006-E3B4-4062-93E6-11E9997027E6}|RemoveDuplicateElementFromSortedArray\\RemoveDuplicateElementFromSortedArray.csproj|c:\\code\\daily_coding_problem\\day no.5 (aug 20th 2024)\\removeduplicateelementfromsortedarray\\removeduplicateelementfromsortedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB43006-E3B4-4062-93E6-11E9997027E6}|RemoveDuplicateElementFromSortedArray\\RemoveDuplicateElementFromSortedArray.csproj|solutionrelative:removeduplicateelementfromsortedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 519,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Daily_coding_problem\\Day no.5 (Aug 20th 2024)\\RemoveDuplicateElementFromSortedArray\\RemoveDuplicateElementFromSortedArray\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveDuplicateElementFromSortedArray\\Program.cs",
+              "ToolTip": "C:\\Code\\Daily_coding_problem\\Day no.5 (Aug 20th 2024)\\RemoveDuplicateElementFromSortedArray\\RemoveDuplicateElementFromSortedArray\\Program.cs",
+              "RelativeToolTip": "RemoveDuplicateElementFromSortedArray\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:37:42.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
