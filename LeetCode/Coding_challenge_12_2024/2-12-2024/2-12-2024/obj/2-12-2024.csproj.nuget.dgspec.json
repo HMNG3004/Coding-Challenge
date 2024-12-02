@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Coding challenge\\LeetCode\\Coding_challenge_12_2024\\1-12-2024\\1-12-2024\\1-12-2024\\1-12-2024.csproj": {}
+    "C:\\Code\\Coding challenge\\LeetCode\\Coding_challenge_12_2024\\2-12-2024\\2-12-2024\\2-12-2024.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Coding challenge\\LeetCode\\Coding_challenge_12_2024\\1-12-2024\\1-12-2024\\1-12-2024\\1-12-2024.csproj": {
+    "C:\\Code\\Coding challenge\\LeetCode\\Coding_challenge_12_2024\\2-12-2024\\2-12-2024\\2-12-2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Coding challenge\\LeetCode\\Coding_challenge_12_2024\\1-12-2024\\1-12-2024\\1-12-2024\\1-12-2024.csproj",
-        "projectName": "1-12-2024",
-        "projectPath": "C:\\Code\\Coding challenge\\LeetCode\\Coding_challenge_12_2024\\1-12-2024\\1-12-2024\\1-12-2024\\1-12-2024.csproj",
+        "projectUniqueName": "C:\\Code\\Coding challenge\\LeetCode\\Coding_challenge_12_2024\\2-12-2024\\2-12-2024\\2-12-2024.csproj",
+        "projectName": "2-12-2024",
+        "projectPath": "C:\\Code\\Coding challenge\\LeetCode\\Coding_challenge_12_2024\\2-12-2024\\2-12-2024\\2-12-2024.csproj",
         "packagesPath": "C:\\Users\\ngmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Coding challenge\\LeetCode\\Coding_challenge_12_2024\\1-12-2024\\1-12-2024\\1-12-2024\\obj\\",
+        "outputPath": "C:\\Code\\Coding challenge\\LeetCode\\Coding_challenge_12_2024\\2-12-2024\\2-12-2024\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ngmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
