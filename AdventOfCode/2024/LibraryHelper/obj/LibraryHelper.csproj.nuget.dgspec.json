@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Coding challenge\\AdventOfCode\\Day 1_Historian Hysteria\\Day 1_Historian Hysteria\\Day 1_Historian Hysteria.csproj": {}
+    "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\LibraryHelper\\LibraryHelper.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Coding challenge\\AdventOfCode\\Day 1_Historian Hysteria\\Day 1_Historian Hysteria\\Day 1_Historian Hysteria.csproj": {
+    "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\LibraryHelper\\LibraryHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Coding challenge\\AdventOfCode\\Day 1_Historian Hysteria\\Day 1_Historian Hysteria\\Day 1_Historian Hysteria.csproj",
-        "projectName": "Day 1_Historian Hysteria",
-        "projectPath": "C:\\Code\\Coding challenge\\AdventOfCode\\Day 1_Historian Hysteria\\Day 1_Historian Hysteria\\Day 1_Historian Hysteria.csproj",
+        "projectUniqueName": "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\LibraryHelper\\LibraryHelper.csproj",
+        "projectName": "LibraryHelper",
+        "projectPath": "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\LibraryHelper\\LibraryHelper.csproj",
         "packagesPath": "C:\\Users\\ngmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Coding challenge\\AdventOfCode\\Day 1_Historian Hysteria\\Day 1_Historian Hysteria\\obj\\",
+        "outputPath": "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\LibraryHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ngmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
