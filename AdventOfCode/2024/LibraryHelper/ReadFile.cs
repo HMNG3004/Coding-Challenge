@@ -70,5 +70,10 @@
             return columns.Select(col => col.ToArray()).ToArray();
         }
 
+        public string ReadFileAsString(string filePath)
+        {
+            return File.ReadAllText(filePath);
+        }
+
     }
 }
