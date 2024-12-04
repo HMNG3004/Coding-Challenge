@@ -74,6 +74,5 @@
         {
             return File.ReadAllText(filePath);
         }
-
     }
 }

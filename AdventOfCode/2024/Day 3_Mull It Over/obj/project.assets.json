@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\Day3_Mull It Over\\Day3_Mull It Over.csproj",
-      "projectName": "Day3_Mull It Over",
-      "projectPath": "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\Day3_Mull It Over\\Day3_Mull It Over.csproj",
+      "projectUniqueName": "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\Day 3_Mull It Over\\Day 3_Mull It Over.csproj",
+      "projectName": "Day 3_Mull It Over",
+      "projectPath": "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\Day 3_Mull It Over\\Day 3_Mull It Over.csproj",
       "packagesPath": "C:\\Users\\ngmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\Day3_Mull It Over\\obj\\",
+      "outputPath": "C:\\Code\\Coding challenge\\AdventOfCode\\2024\\Day 3_Mull It Over\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ngmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
