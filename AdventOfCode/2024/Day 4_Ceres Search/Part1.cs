@@ -40,9 +40,7 @@ namespace Day_4_Ceres_Search
             }
 
             return count;
-        }
-
-        
+        }        
 
         static int CountWordInDiagonals(char[,] grid, string word)
         {
