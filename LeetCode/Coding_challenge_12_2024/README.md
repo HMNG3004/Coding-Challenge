@@ -30,4 +30,10 @@
     <td>Make String a Subsequence Using Cyclic Increments</td>
     <td><a href="https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/submissions/1470038997">link</a></td>
   </tr>
+
+  <tr>
+    <td>5</td>
+    <td>Move Pieces to Obtain a String</td>
+    <td><a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/submissions/1470921937">link</a></td>
+  </tr>
 </table>
