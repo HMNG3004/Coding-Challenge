@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 4_Ceres Search", "Day 4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 3_Mull It Over", "Day 3_Mull It Over\Day 3_Mull It Over.csproj", "{C38C4AFE-F6F5-4FEB-8EED-6D9384207D82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 5_Print Queue", "Day 5_Print Queue\Day 5_Print Queue.csproj", "{D3374293-58F7-4DE7-B77E-980DF163313F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 5_Print Queue", "Day 5_Print Queue\Day 5_Print Queue.csproj", "{D3374293-58F7-4DE7-B77E-980DF163313F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 6 Guard Gallivant", "Day 6 Guard Gallivant\Day 6 Guard Gallivant.csproj", "{F700C7F5-2013-4B02-AB19-64681E5A6ECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D3374293-58F7-4DE7-B77E-980DF163313F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3374293-58F7-4DE7-B77E-980DF163313F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3374293-58F7-4DE7-B77E-980DF163313F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F700C7F5-2013-4B02-AB19-64681E5A6ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F700C7F5-2013-4B02-AB19-64681E5A6ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F700C7F5-2013-4B02-AB19-64681E5A6ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F700C7F5-2013-4B02-AB19-64681E5A6ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

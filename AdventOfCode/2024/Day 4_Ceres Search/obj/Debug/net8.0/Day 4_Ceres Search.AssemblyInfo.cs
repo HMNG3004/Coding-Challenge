@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 4_Ceres Search")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b82878235ff559c05b9d62cd95d516caa477bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26d6fdbea9908eaaeef71f5b95fdf47c685adfef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 4_Ceres Search")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 4_Ceres Search")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

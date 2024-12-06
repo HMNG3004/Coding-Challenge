@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 3_Mull It Over")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b82878235ff559c05b9d62cd95d516caa477bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26d6fdbea9908eaaeef71f5b95fdf47c685adfef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 3_Mull It Over")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 3_Mull It Over")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
