@@ -36,4 +36,10 @@
     <td>Move Pieces to Obtain a String</td>
     <td><a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/submissions/1470921937">link</a></td>
   </tr>
+
+  <tr>
+    <td>6</td>
+    <td>Maximum Number of Integers to Choose From a Range I</td>
+    <td><a href="https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/submissions/1471680938">link</a></td>
+  </tr>
 </table>
