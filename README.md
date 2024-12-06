@@ -19,15 +19,21 @@ I primarily use **C#** for solving these challenges, taking advantage of its rob
 The repository is organized to make navigation simple and intuitive. Challenges are grouped by platform and further categorized by month or topic.  
 
 ```plaintext
-Coding challenge
+Coding challenges
 ├── AdventOfCode
 │   ├── 2024
 │   │   ├── Day 1_Historian Hysteria
+│   │   ├── Day 2_Red-Nosed Reports
+│   │   ├── ...
 ├── LeetCode
-│   ├── Coding_challenge_September
-│   │   ├── 001. 1st Sep 2024
-│   │   ├── 002. 2nd Sep 2024
-│   │   └── ...
+│   ├── Coding_challenge_09_2024
+│   │   ├── 01-09-2024
+│   │   ├── 02-09-2024
+│   │   ├── ...
+│   ├── Coding_challenge_12_2024
+│   │   ├── 01-12-2024
+│   │   ├── 02-12-2024
+│   │   ├── ...
 │   ├── README.md
-└── ...
+├──...
 ├── README.md
