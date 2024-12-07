@@ -42,4 +42,10 @@
     <td>Maximum Number of Integers to Choose From a Range I</td>
     <td><a href="https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/submissions/1471680938">link</a></td>
   </tr>
+
+  <tr>
+    <td>7</td>
+    <td>Minimum Limit of Balls in a Bag</td>
+    <td><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/submissions/1472322067">link</a></td>
+  </tr>
 </table>
