@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 5_Print Queue", "Day 5_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 6 Guard Gallivant", "Day 6 Guard Gallivant\Day 6 Guard Gallivant.csproj", "{F700C7F5-2013-4B02-AB19-64681E5A6ECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 7 Bridge Repair", "Day 7 Bridge Repair\Day 7 Bridge Repair.csproj", "{24E5B44A-1920-4EBB-8E49-452603195D8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 7 Bridge Repair", "Day 7 Bridge Repair\Day 7 Bridge Repair.csproj", "{24E5B44A-1920-4EBB-8E49-452603195D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 8 Resonant Collinearity", "Day 8 Resonant Collinearity\Day 8 Resonant Collinearity.csproj", "{3E8DF22B-96C8-4F0D-A74E-2417E69BA2EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{24E5B44A-1920-4EBB-8E49-452603195D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24E5B44A-1920-4EBB-8E49-452603195D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24E5B44A-1920-4EBB-8E49-452603195D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8DF22B-96C8-4F0D-A74E-2417E69BA2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8DF22B-96C8-4F0D-A74E-2417E69BA2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8DF22B-96C8-4F0D-A74E-2417E69BA2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8DF22B-96C8-4F0D-A74E-2417E69BA2EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

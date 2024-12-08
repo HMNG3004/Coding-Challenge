@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 6 Guard Gallivant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7fea9bde065a541be4b6ff9ca8195e63a670432")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+645a87bc5f5e881b7974fdb8b274db9c3e9b4538")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 6 Guard Gallivant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 6 Guard Gallivant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
