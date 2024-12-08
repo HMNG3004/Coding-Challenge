@@ -48,4 +48,10 @@
     <td>Minimum Limit of Balls in a Bag</td>
     <td><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/submissions/1472322067">link</a></td>
   </tr>
+
+  <tr>
+    <td>8</td>
+    <td>Two Best Non-Overlapping Events</td>
+    <td><a href="https://leetcode.com/problems/two-best-non-overlapping-events/submissions/1473614646">link</a></td>
+  </tr>
 </table>
