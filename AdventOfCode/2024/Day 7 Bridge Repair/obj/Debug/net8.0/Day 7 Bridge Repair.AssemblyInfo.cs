@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 7 Bridge Repair")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+645a87bc5f5e881b7974fdb8b274db9c3e9b4538")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb880133e4e04f807cf8c6dda7fec4e3fc5876d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 7 Bridge Repair")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 7 Bridge Repair")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
