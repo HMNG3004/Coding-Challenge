@@ -60,4 +60,10 @@
     <td>Special Array II</td>
     <td><a href="https://leetcode.com/problems/special-array-ii/submissions/1474054933">link</a></td>
   </tr>
+
+  <tr>
+    <td>10</td>
+    <td>Special Array II</td>
+    <td><a href="https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/submissions/1475286156">link</a></td>
+  </tr>
 </table>
