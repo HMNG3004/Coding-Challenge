@@ -66,4 +66,10 @@
     <td>Special Array II</td>
     <td><a href="https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/submissions/1475286156">link</a></td>
   </tr>
+
+  <tr>
+    <td>11</td>
+    <td>Maximum Beauty of an Array After Applying Operation</td>
+    <td><a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/submissions/1476263235">link</a></td>
+  </tr>
 </table>
