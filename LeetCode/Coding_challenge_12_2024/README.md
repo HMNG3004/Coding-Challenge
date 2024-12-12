@@ -72,4 +72,10 @@
     <td>Maximum Beauty of an Array After Applying Operation</td>
     <td><a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/submissions/1476263235">link</a></td>
   </tr>
+
+  <tr>
+    <td>12</td>
+    <td>Take Gifts From the Richest Pile</td>
+    <td><a href="https://leetcode.com/problems/take-gifts-from-the-richest-pile/submissions/1477147314">link</a></td>
+  </tr>
 </table>
