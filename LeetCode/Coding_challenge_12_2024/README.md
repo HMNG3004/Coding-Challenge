@@ -78,4 +78,10 @@
     <td>Take Gifts From the Richest Pile</td>
     <td><a href="https://leetcode.com/problems/take-gifts-from-the-richest-pile/submissions/1477147314">link</a></td>
   </tr>
+
+  <tr>
+    <td>13</td>
+    <td>Find Score of an Array After Marking All Elements</td>
+    <td><a href="https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/submissions/1477733314">link</a></td>
+  </tr>
 </table>
