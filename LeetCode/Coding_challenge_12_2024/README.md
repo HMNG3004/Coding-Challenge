@@ -84,4 +84,10 @@
     <td>Find Score of an Array After Marking All Elements</td>
     <td><a href="https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/submissions/1477733314">link</a></td>
   </tr>
+
+  <tr>
+    <td>14</td>
+    <td>Continuous Subarrays</td>
+    <td><a href="https://leetcode.com/problems/continuous-subarrays/submissions/1478270861">link</a></td>
+  </tr>
 </table>
