@@ -8,4 +8,6 @@ _Return the length of the **longest special substring** of `s` which occurs **at
 
 A **substring** is a contiguous **non-empty** sequence of characters within a string.
 
-View full question <a href="https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i?envType=daily-question&envId=2024-12-10">here</a>
+View full [question](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i?envType=daily-question&envId=2024-12-10)
+
+View my [submission](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/submissions/1475286156)

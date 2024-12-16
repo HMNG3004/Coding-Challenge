@@ -11,4 +11,6 @@ Starting with `score = 0`, apply the following algorithm:
 
 _Return the score you get after applying the above algorithm._
 
-View full question <a href="https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements?envType=daily-question&envId=2024-12-13D">here</a>
+View full [question](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements?envType=daily-question&envId=2024-12-13D)
+
+View my [submission](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/submissions/1477733314)

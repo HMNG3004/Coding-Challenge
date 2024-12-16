@@ -7,4 +7,6 @@ Return the total number of **continuous** subarrays.
 
 A subarray is a contiguous **non-empty** sequence of elements within an array.
 
-View full question <a href="https://leetcode.com/problems/continuous-subarrays?envType=daily-question&envId=2024-12-14">here</a>
+View full [question](https://leetcode.com/problems/continuous-subarrays?envType=daily-question&envId=2024-12-14)
+
+View my [submission](https://leetcode.com/problems/continuous-subarrays/submissions/1478270861)

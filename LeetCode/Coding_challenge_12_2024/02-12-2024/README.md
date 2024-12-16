@@ -6,4 +6,6 @@ Return the index of the word in `sentence` (1-indexed) where `searchWord` is a p
 
 A prefix of a string `s` is any leading contiguous substring of `s`.
 
-View full question <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence?envType=daily-question&envId=2024-12-02">here</a>
+View full [question](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence?envType=daily-question&envId=2024-12-02)
+
+View my [submission](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/submissions/1467908555)

@@ -6,4 +6,6 @@ You are given a **0-indexed** string `s` and a **0-indexed** integer array `spac
 
 Return the _modified_ string **_after_** the spaces have been added.
 
-View full question <a href="https://leetcode.com/problems/adding-spaces-to-a-string?envType=daily-question&envId=2024-12-03">here</a>
+View full [question](https://leetcode.com/problems/adding-spaces-to-a-string?envType=daily-question&envId=2024-12-03)
+
+View my [submission](https://leetcode.com/problems/adding-spaces-to-a-string/submissions/1468821801)

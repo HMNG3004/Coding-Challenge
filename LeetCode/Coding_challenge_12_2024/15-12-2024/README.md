@@ -9,4 +9,6 @@ The **pass ratio** of a class is equal to the number of students of the class th
 
 _Return the **maximum** possible average pass ratio after assigning the `extraStudents` students. Answers within **10<sup>-5</sup>** of the actual answer will be accepted._
 
-View full question <a href="https://leetcode.com/problems/maximum-average-pass-ratio?envType=daily-question&envId=2024-12-15">here</a>
+View full [question](https://leetcode.com/problems/maximum-average-pass-ratio?envType=daily-question&envId=2024-12-15)
+
+View my [submission](https://leetcode.com/problems/maximum-average-pass-ratio/submissions/1479119403)

@@ -7,4 +7,6 @@ subarray `nums[fromi..toi]` is **special** or not.
 
 Return an array of booleans `answer` such that `answer[i]` is `true` if `nums[fromi..toi]` is special.
 
-View full question <a href="https://leetcode.com/problems/special-array-ii?envType=daily-question&envId=2024-12-09">here</a>
+View full [question](https://leetcode.com/problems/special-array-ii?envType=daily-question&envId=2024-12-09)
+
+View my [submission](https://leetcode.com/problems/special-array-ii/submissions/1474054933)

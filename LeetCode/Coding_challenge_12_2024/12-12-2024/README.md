@@ -8,4 +8,6 @@ You are given an integer array `gifts` denoting the number of gifts in various p
 
 _Return the number of gifts remaining after `k` seconds._
 
-View full question <a href="https://leetcode.com/problems/take-gifts-from-the-richest-pile?envType=daily-question&envId=2024-12-12">here</a>
+View full [question](https://leetcode.com/problems/take-gifts-from-the-richest-pile?envType=daily-question&envId=2024-12-12)
+
+View my [submission](https://leetcode.com/problems/take-gifts-from-the-richest-pile/submissions/1477147314)

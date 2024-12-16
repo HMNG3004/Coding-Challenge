@@ -9,6 +9,6 @@ You need to perform `k` operations on `nums`. In each operation:
 
 _Return an integer array denoting the final state of `nums` after performing all `k` operations._
 
-View full question <a href="https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i?envType=daily-question&envId=2024-12-16">here</a>
+View full [question](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i?envType=daily-question&envId=2024-12-16)
 
-Here is my [submission](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/submissions/1479840319)
+View my [submission](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/submissions/1479840319)

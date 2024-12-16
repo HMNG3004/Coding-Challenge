@@ -11,4 +11,6 @@ Your penalty is the **maximum** number of balls in a bag. You want to **minimize
 
 _Return the minimum possible penalty after performing the operations._
 
-View full question <a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag?envType=daily-question&envId=2024-12-07">here</a>
+View full [question](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag?envType=daily-question&envId=2024-12-07)
+
+View my [submission](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/submissions/1472322067)

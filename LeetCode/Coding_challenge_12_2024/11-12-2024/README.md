@@ -16,4 +16,6 @@ _Return the **maximum** possible beauty of the array `nums` after applying the o
 
 A _subsequence_ of an array is a new array generated from the original array by deleting some elements (possibly none) without changing the order of the remaining elements.
 
-View full question <a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation?envType=daily-question&envId=2024-12-11">here</a>
+View full [question](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation?envType=daily-question&envId=2024-12-11)
+
+View my [submission](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/submissions/1476263235)

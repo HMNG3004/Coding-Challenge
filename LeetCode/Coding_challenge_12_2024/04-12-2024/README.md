@@ -8,4 +8,6 @@ Return _`true` if it is possible to make `str2` a subsequence of `str1` by perfo
 
 **Note**: A subsequence of a string is a new string that is formed from the original string by deleting some (possibly none) of the characters without disturbing the relative positions of the remaining characters.
 
-View full question <a href="https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments?envType=daily-question&envId=2024-12-04">here</a>
+View full [question](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments?envType=daily-question&envId=2024-12-04)
+
+View my [submission](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/submissions/1470038997)

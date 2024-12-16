@@ -6,4 +6,6 @@ _Return this **maximum** sum._
 
 Note that the start time and end time is **inclusive**: that is, you cannot attend two events where one of them starts and the other ends at the same time. More specifically, if you attend an event with end time `t`, the next event must start at or after `t + 1`.
 
-View full question <a href="https://leetcode.com/problems/two-best-non-overlapping-events?envType=daily-question&envId=2024-12-08">here</a>
+View full [question](https://leetcode.com/problems/two-best-non-overlapping-events?envType=daily-question&envId=2024-12-08)
+
+View my [submission](https://leetcode.com/problems/two-best-non-overlapping-events/submissions/1473614646)

@@ -9,4 +9,6 @@ You are given an integer array `banned` and two integers `n` and `maxSum`. You a
 
 _Return the **maximum** number of integers you can choose following the mentioned rules._
 
-View full question <a href="https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i?envType=daily-question&envId=2024-12-06">here</a>
+View full [question](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i?envType=daily-question&envId=2024-12-06)
+
+View my [submission](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/submissions/1471680938)
