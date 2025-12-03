@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 1 Secret Entrance\\Day 1 Secret Entrance.csproj": {}
+    "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 02 Gift Shop.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 1 Secret Entrance\\Day 1 Secret Entrance.csproj": {
+    "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 02 Gift Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 1 Secret Entrance\\Day 1 Secret Entrance.csproj",
-        "projectName": "Day 1 Secret Entrance",
-        "projectPath": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 1 Secret Entrance\\Day 1 Secret Entrance.csproj",
+        "projectUniqueName": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 02 Gift Shop.csproj",
+        "projectName": "Day 02 Gift Shop",
+        "projectPath": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 02 Gift Shop.csproj",
         "packagesPath": "C:\\Users\\minhnvh\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 1 Secret Entrance\\obj\\",
+        "outputPath": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

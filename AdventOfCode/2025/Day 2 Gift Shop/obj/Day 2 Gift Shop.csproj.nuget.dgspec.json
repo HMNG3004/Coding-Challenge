@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 2 Gift Shop.csproj": {}
+    "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 2 Gift Shop.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 2 Gift Shop.csproj": {
+    "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 2 Gift Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 2 Gift Shop.csproj",
+        "projectUniqueName": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 2 Gift Shop.csproj",
         "projectName": "Day 2 Gift Shop",
-        "projectPath": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 2 Gift Shop.csproj",
-        "packagesPath": "C:\\Users\\ngmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\obj\\",
+        "projectPath": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\Day 2 Gift Shop.csproj",
+        "packagesPath": "C:\\Users\\minhnvh\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 2 Gift Shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ngmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\minhnvh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\LibraryHelper.csproj": {
-                "projectPath": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\LibraryHelper.csproj"
+              "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\LibraryHelper.csproj": {
+                "projectPath": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\LibraryHelper.csproj"
               }
             }
           }
@@ -48,7 +48,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -69,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\LibraryHelper.csproj": {
+    "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\LibraryHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\LibraryHelper.csproj",
+        "projectUniqueName": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\LibraryHelper.csproj",
         "projectName": "LibraryHelper",
-        "projectPath": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\LibraryHelper.csproj",
-        "packagesPath": "C:\\Users\\ngmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\obj\\",
+        "projectPath": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\LibraryHelper.csproj",
+        "packagesPath": "C:\\Users\\minhnvh\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\LibraryHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ngmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\minhnvh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -113,7 +113,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

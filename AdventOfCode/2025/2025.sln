@@ -5,9 +5,11 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryHelper", "LibraryHelper\LibraryHelper.csproj", "{9D4CB420-7D1E-4B54-92CB-00D941F29690}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 1 Secret Entrance", "Day 1 Secret Entrance\Day 1 Secret Entrance.csproj", "{A7EB8B21-C1C5-4F68-981E-9741205EB082}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 01 Secret Entrance", "Day 1 Secret Entrance\Day 01 Secret Entrance.csproj", "{A7EB8B21-C1C5-4F68-981E-9741205EB082}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 2 Gift Shop", "Day 2 Gift Shop\Day 2 Gift Shop.csproj", "{DADF1C36-BC3E-4087-8C3A-10C2DFDF3B39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 02 Gift Shop", "Day 2 Gift Shop\Day 02 Gift Shop.csproj", "{DADF1C36-BC3E-4087-8C3A-10C2DFDF3B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 03 Lobby", "Day 3 Lobby\Day 03 Lobby.csproj", "{CCE7056E-4B3E-4175-A155-EBC8BAD8CA9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DADF1C36-BC3E-4087-8C3A-10C2DFDF3B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DADF1C36-BC3E-4087-8C3A-10C2DFDF3B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DADF1C36-BC3E-4087-8C3A-10C2DFDF3B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE7056E-4B3E-4175-A155-EBC8BAD8CA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE7056E-4B3E-4175-A155-EBC8BAD8CA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE7056E-4B3E-4175-A155-EBC8BAD8CA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE7056E-4B3E-4175-A155-EBC8BAD8CA9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
