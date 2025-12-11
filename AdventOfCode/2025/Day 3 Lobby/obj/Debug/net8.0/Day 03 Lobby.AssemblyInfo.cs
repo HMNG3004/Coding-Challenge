@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 03 Lobby")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1203f75650e40e2d248037daea6d096b817bf1f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9092612fb4f90f832a457e32289300bf370a2f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 03 Lobby")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 03 Lobby")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

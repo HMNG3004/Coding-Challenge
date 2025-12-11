@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 1 Secret Entrance\\Day 01 Secret Entrance.csproj": {}
+    "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 06 Trash Compactor\\Day 06 Trash Compactor.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 1 Secret Entrance\\Day 01 Secret Entrance.csproj": {
+    "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 06 Trash Compactor\\Day 06 Trash Compactor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 1 Secret Entrance\\Day 01 Secret Entrance.csproj",
-        "projectName": "Day 01 Secret Entrance",
-        "projectPath": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 1 Secret Entrance\\Day 01 Secret Entrance.csproj",
+        "projectUniqueName": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 06 Trash Compactor\\Day 06 Trash Compactor.csproj",
+        "projectName": "Day 06 Trash Compactor",
+        "projectPath": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 06 Trash Compactor\\Day 06 Trash Compactor.csproj",
         "packagesPath": "C:\\Users\\ngmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 1 Secret Entrance\\obj\\",
+        "outputPath": "C:\\Code\\Coding-Challenge\\AdventOfCode\\2025\\Day 06 Trash Compactor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
