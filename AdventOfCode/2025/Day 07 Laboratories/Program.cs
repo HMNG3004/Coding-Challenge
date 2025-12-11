@@ -19,62 +19,6 @@ public class Program
         ProcessParts(filePath);
     }
 
-    // ------------------------- //
-    //     READ INPUT ONLY       //
-    // ------------------------- //
-    static (List<(long start, long end)> ranges, List<long> ids)
-        ReadInput(string filePath)
-    {
-        var lines = File.ReadAllLines(filePath);
-
-        var ranges = new List<(long, long)>();
-        var ids = new List<long>();
-
-        int i = 0;
-
-        // Read ranges
-        for (; i < lines.Length && lines[i].Trim() != ""; i++)
-        {
-            var parts = lines[i].Split('-');
-            ranges.Add((long.Parse(parts[0]), long.Parse(parts[1])));
-        }
-
-        // Skip blank line
-        i++;
-        ranges.Sort();
-        // Read IDs
-        for (; i < lines.Length; i++)
-            ids.Add(long.Parse(lines[i]));
-
-        return (ranges, ids);
-    }
-
-    public static List<(long start, long end)> MergeRanges(List<(long start, long end)> ranges)
-    {
-        var sorted = ranges.OrderBy(r => r.start).ToList();
-        var merged = new List<(long start, long end)>();
-
-        var current = sorted[0];
-
-        for (int i = 1; i < sorted.Count; i++)
-        {
-            var next = sorted[i];
-
-            if (next.start <= current.end)
-            {
-                current.end = Math.Max(current.end, next.end);
-            }
-            else
-            {
-                merged.Add(current);
-                current = next;
-            }
-        }
-
-        merged.Add(current);
-        return merged;
-    }
-
     public static void ProcessParts(string filePath)
     {
         var lines = File.ReadAllLines(filePath);

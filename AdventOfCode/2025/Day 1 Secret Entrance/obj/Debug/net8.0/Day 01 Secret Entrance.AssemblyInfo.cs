@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 01 Secret Entrance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c845b208e9211a411ec20ae828d09a5875355d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3313b8e71e3d084ee7086872cf3f593fba5eeac1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 01 Secret Entrance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 01 Secret Entrance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
